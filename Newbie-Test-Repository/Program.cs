@@ -9,6 +9,8 @@ namespace Newbie_Test_Repository
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("Small change");
+      Console.ReadLine();
     }
   }
 }
