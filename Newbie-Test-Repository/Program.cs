@@ -11,6 +11,8 @@ namespace Newbie_Test_Repository
     {
       Console.WriteLine("Small change");
       Console.WriteLine("Branch change");
+      Console.WriteLine("Second branch change");
+      Console.WriteLine("Third branch change");
       Console.WriteLine("Trunk change");
       Console.WriteLine("Press enter to continue. . .");
       Console.ReadLine();
