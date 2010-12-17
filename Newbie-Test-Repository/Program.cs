@@ -13,6 +13,7 @@ namespace Newbie_Test_Repository
       Console.WriteLine("Branch change");
       Console.WriteLine("Second branch change");
       Console.WriteLine("Third branch change");
+      Console.WriteLine("Fourth branch change");
       Console.WriteLine("Press enter to continue. . .");
       Console.ReadLine();
     }
